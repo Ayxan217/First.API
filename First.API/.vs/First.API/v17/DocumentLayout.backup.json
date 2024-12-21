@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\First.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\source\\repos\\first.api\\first.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\source\\repos\\first.api\\first.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\source\\repos\\first.api\\first.api\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\source\\repos\\first.api\\first.api\\migrations\\20241221143540_addcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\migrations\\20241221143540_addcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\source\\repos\\first.api\\first.api\\first.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\first.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\source\\repos\\first.api\\first.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\source\\repos\\first.api\\first.api\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "First.API",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\First.API\\First.API\\First.API.csproj",
+              "RelativeDocumentMoniker": "First.API\\First.API.csproj",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\First.API\\First.API\\First.API.csproj",
+              "RelativeToolTip": "First.API\\First.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-20T14:23:58.518Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241221143540_AddCategories.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\First.API\\First.API\\Migrations\\20241221143540_AddCategories.cs",
+              "RelativeDocumentMoniker": "First.API\\Migrations\\20241221143540_AddCategories.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\First.API\\First.API\\Migrations\\20241221143540_AddCategories.cs",
+              "RelativeToolTip": "First.API\\Migrations\\20241221143540_AddCategories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:35:41.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\First.API\\First.API\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "First.API\\Entity\\Category.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\First.API\\First.API\\Entity\\Category.cs",
+              "RelativeToolTip": "First.API\\Entity\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:29:19.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\First.API\\First.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "First.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\First.API\\First.API\\Controllers\\CategoriesController.cs*",
+              "RelativeToolTip": "First.API\\Controllers\\CategoriesController.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wBIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:28:05.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\First.API\\First.API\\appsettings.json",
+              "RelativeDocumentMoniker": "First.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\First.API\\First.API\\appsettings.json",
+              "RelativeToolTip": "First.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-21T14:21:25.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\First.API\\First.API\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "First.API\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\First.API\\First.API\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "First.API\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:17:36.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\First.API\\First.API\\Program.cs",
+              "RelativeDocumentMoniker": "First.API\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\First.API\\First.API\\Program.cs",
+              "RelativeToolTip": "First.API\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:57:26.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
