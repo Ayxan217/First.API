@@ -4446,11 +4446,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\source\\repos\\First.API\\First.API\\First.API.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Masaüstü\\First.API\\First.API\\First.API\\First.API.csproj",
       "projectName": "First.API",
-      "projectPath": "C:\\Users\\pc\\source\\repos\\First.API\\First.API\\First.API.csproj",
+      "projectPath": "C:\\Users\\pc\\OneDrive\\Masaüstü\\First.API\\First.API\\First.API\\First.API.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\source\\repos\\First.API\\First.API\\obj\\",
+      "outputPath": "C:\\Users\\pc\\OneDrive\\Masaüstü\\First.API\\First.API\\First.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

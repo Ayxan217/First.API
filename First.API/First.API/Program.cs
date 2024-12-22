@@ -1,4 +1,6 @@
 using First.API.DAL;
+using First.API.Repositories.Implementations;
+using First.API.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
@@ -14,6 +16,8 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 {
     opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
 });
+
+builder.Services.AddScoped<IRepository, Repository>();
 
 WebApplication app = builder.Build();
 
