@@ -1,6 +1,8 @@
 using First.API.DAL;
 using First.API.Repositories.Implementations;
 using First.API.Repositories.Interfaces;
+using First.API.Services.Implementations;
+using First.API.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using System.Text.Json.Serialization;
 
@@ -23,6 +25,8 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 
 builder.Services.AddScoped<ICategoryRepository,CategoryRepository>();
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<ICategoryService, CategoryService>();
+
 
 WebApplication app = builder.Build();
 

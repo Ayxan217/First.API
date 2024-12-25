@@ -38,13 +38,8 @@ namespace First.API.Repositories.Implementations
             IQueryable<T> query = _table;
             if (expression is not null) query = query.Where(expression);
 
-            if(includes is not null)
-            {
-                for (int i = 0; i < includes.Length; i++)
-                {
-                    query = query.Include(includes[i]);
-                }
-            }
+            if(includes is not null) query = _getIncludes(query, includes);
+           
            
 
             if (orderExpression is not null)
@@ -61,9 +56,14 @@ namespace First.API.Repositories.Implementations
             return isTracking ? query : query.AsNoTracking();
         }
 
-        public async Task<T> GetByIdAsync(int id)
+        public async Task<T> GetByIdAsync(int id,params string[] includes)
         {
-            return await _table.FirstOrDefaultAsync(x => x.Id == id);
+            IQueryable<T> query = _table;
+
+            if (includes is not null) query = _getIncludes(query,includes); 
+          
+
+            return await query.FirstOrDefaultAsync(x => x.Id == id);
         }
         public void Update(T entity)
         {
@@ -75,7 +75,17 @@ namespace First.API.Repositories.Implementations
             return await _context.SaveChangesAsync();
         }
 
-       
+        private IQueryable<T> _getIncludes(IQueryable<T> query,params string[] includes)
+        {
+            for (int i = 0; i < includes.Length; i++)
+                query = query.Include(includes[i]);
 
+            return query;
+        }
+
+        public Task<bool> AnyAsync(Expression<Func<T, bool>> expression)
+        {
+            return _table.AnyAsync(expression);
+        }
     }
 }

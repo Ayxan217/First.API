@@ -12,11 +12,12 @@ namespace First.API.Repositories.Interfaces
             bool isDecending = false,
             bool isTracking = false,
             params string[]? includes);
-        Task<T> GetByIdAsync(int id);
+        Task<T> GetByIdAsync(int id, params string[] includes);
         Task AddAsync(T entity);
         void Delete(T entity);
         void Update(T entity);
         Task<int> SaveChangesAsync();
+        Task<bool> AnyAsync(Expression<Func<T,bool>> expression);  
 
     }
 }
