@@ -3,20 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\entity\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\entity\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\migrations\\20241225051625_addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\migrations\\20241225051625_addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,20 +67,12 @@
       "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\migrations\\20241221143540_addcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\migrations\\20241221143540_addcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\first.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\first.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +82,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "First.API",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\First.API.csproj",
               "RelativeDocumentMoniker": "First.API\\First.API.csproj",
@@ -70,46 +98,137 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Implementations\\Repository.cs",
-              "RelativeDocumentMoniker": "First.API\\Repositories\\Implementations\\Repository.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Implementations\\Repository.cs",
-              "RelativeToolTip": "First.API\\Repositories\\Implementations\\Repository.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAxwCsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "First.API\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeToolTip": "First.API\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T09:34:28.185Z",
+              "WhenOpened": "2024-12-25T07:18:41.535Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "First.API\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "First.API\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:18:00.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "First.API\\Repositories\\Implementations\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeToolTip": "First.API\\Repositories\\Implementations\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:12:12.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "First.API\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "First.API\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:09:22.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "First.API\\Repositories\\Interfaces\\IRepository.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeToolTip": "First.API\\Repositories\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T09:24:41.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "First.API\\GlobalUsings.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\GlobalUsings.cs",
-              "RelativeToolTip": "First.API\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "First.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "First.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T08:39:34.26Z",
+              "WhenOpened": "2024-12-21T14:28:05.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Program.cs",
+              "RelativeDocumentMoniker": "First.API\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Program.cs",
+              "RelativeToolTip": "First.API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T13:57:26.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "First.API\\Repositories\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "First.API\\Repositories\\Implementations\\Repository.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwD8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:34:28.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "First.API\\Entity\\Product.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Entity\\Product.cs",
+              "RelativeToolTip": "First.API\\Entity\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:22:48.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Entity\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "First.API\\Entity\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Entity\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "First.API\\Entity\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:58:19.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "CreateCategoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\DTOs\\Category\\CreateCategoryDTO.cs",
               "RelativeDocumentMoniker": "First.API\\DTOs\\Category\\CreateCategoryDTO.cs",
@@ -117,50 +236,60 @@
               "RelativeToolTip": "First.API\\DTOs\\Category\\CreateCategoryDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T08:35:13.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T08:35:13.538Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "First.API\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "First.API\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T14:28:05.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Entity\\Category.cs",
               "RelativeDocumentMoniker": "First.API\\Entity\\Category.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Entity\\Category.cs",
               "RelativeToolTip": "First.API\\Entity\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T14:29:19.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Program.cs",
-              "RelativeDocumentMoniker": "First.API\\Program.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Program.cs",
-              "RelativeToolTip": "First.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-20T13:57:26.192Z",
+              "WhenOpened": "2024-12-21T14:29:19.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
+              "Title": "20241225051625_AddProduct.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Migrations\\20241225051625_AddProduct.cs",
+              "RelativeDocumentMoniker": "First.API\\Migrations\\20241225051625_AddProduct.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Migrations\\20241225051625_AddProduct.cs",
+              "RelativeToolTip": "First.API\\Migrations\\20241225051625_AddProduct.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T05:16:26.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "First.API\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "First.API\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:17:36.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "First.API\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\GlobalUsings.cs",
+              "RelativeToolTip": "First.API\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:39:34.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "20241221143540_AddCategories.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Migrations\\20241221143540_AddCategories.cs",
               "RelativeDocumentMoniker": "First.API\\Migrations\\20241221143540_AddCategories.cs",
@@ -172,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\appsettings.json",
               "RelativeDocumentMoniker": "First.API\\appsettings.json",
@@ -181,18 +310,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-21T14:21:25.338Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "First.API\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "First.API\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T14:17:36.372Z"
             }
           ]
         }

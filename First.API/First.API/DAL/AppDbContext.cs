@@ -8,6 +8,7 @@ namespace First.API.DAL
         public AppDbContext(DbContextOptions<AppDbContext> option) : base(option) { }
 
         public DbSet<Category> Categories { get; set; }
+        public DbSet<Product> Products { get; set; }
        
     }
 }

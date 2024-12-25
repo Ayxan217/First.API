@@ -9,9 +9,9 @@ namespace First.API.Controllers
     [ApiController]
     public class CategoriesController : ControllerBase
     {
-        private readonly IRepository _repository;
+        private readonly ICategoryRepository _repository;
 
-        public CategoriesController(IRepository repository)
+        public CategoriesController(ICategoryRepository repository)
         {
             _repository = repository;
         }
@@ -19,15 +19,18 @@ namespace First.API.Controllers
         [HttpGet]
         public async Task<IActionResult> Get(int page=1, int take=3)
         {
-            var categories = await _repository.GetAll().ToListAsync();
+            //var categories = await _repository.GetAll(includes:"Products").ToListAsync();
+            var categories = await _repository.GetAll(skip:(page-1)*take,take:take).ToListAsync();
             return Ok(categories);
         }
+
+
 
         [HttpGet]
         [Route("{id}")]
         public async Task<IActionResult> Get(int id)
         {
-            if (id == null || id<1) return BadRequest();
+            if (id<1) return BadRequest();
 
             Category category = await _repository.GetByIdAsync(id);
 
@@ -51,7 +54,7 @@ namespace First.API.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {
-            if (id == null || id < 1) return BadRequest();
+            if (id < 1) return BadRequest();
             Category category = await _repository.GetByIdAsync(id);
                
 
@@ -66,7 +69,7 @@ namespace First.API.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> Update(int id, string name)
         {
-            if(id == null || id < 1) return BadRequest();
+            if(id < 1) return BadRequest();
             Category category = await _repository.GetByIdAsync(id);
             if (category == null) return NotFound();
 
