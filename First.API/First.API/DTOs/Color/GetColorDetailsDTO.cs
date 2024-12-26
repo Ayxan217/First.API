@@ -6,6 +6,6 @@ namespace First.API.DTOs.Color
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public IEnumerable<GetProductDTO> productDTOs { get; set; }
+        
     }
 }

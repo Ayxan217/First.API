@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\entity\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\entity\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\repositories\\implementations\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\repositories\\implementations\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\dtos\\color\\getcolordetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\dtos\\color\\getcolordetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\dtos\\category\\getcategorydetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\dtos\\category\\getcategorydetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\controllers\\colorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\controllers\\colorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Migrations\\20241226065143_addColorProd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:First.API\\Migrations\\20241226065143_addColorProd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,30 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\entity\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\entity\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\dtos\\color\\getcolordetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\dtos\\color\\getcolordetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\dtos\\category\\getcategorydetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\dtos\\category\\getcategorydetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\repositories\\implementations\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|solutionrelative:first.api\\repositories\\implementations\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1926BC8-4ED6-4468-B988-3D56A3EDD586}|First.API\\First.API.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\first.api\\first.api\\first.api\\dtos\\category\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -146,33 +150,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ColorService.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Services\\Implementations\\ColorService.cs",
-              "RelativeDocumentMoniker": "First.API\\Services\\Implementations\\ColorService.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Services\\Implementations\\ColorService.cs",
-              "RelativeToolTip": "First.API\\Services\\Implementations\\ColorService.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAA2wFgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "First.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "First.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswDsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T06:12:03.909Z",
+              "WhenOpened": "2024-12-21T14:28:05.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "First.API\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "First.API\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:24:40.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "First.API\\Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "First.API\\Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswFgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:44:25.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Entity\\Color.cs",
+              "RelativeDocumentMoniker": "First.API\\Entity\\Color.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Entity\\Color.cs",
+              "RelativeToolTip": "First.API\\Entity\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:03:19.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetCategoryDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\DTOs\\Category\\GetCategoryDetailDTO.cs",
+              "RelativeDocumentMoniker": "First.API\\DTOs\\Category\\GetCategoryDetailDTO.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\DTOs\\Category\\GetCategoryDetailDTO.cs",
+              "RelativeToolTip": "First.API\\DTOs\\Category\\GetCategoryDetailDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:07:28.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetColorDetailsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\DTOs\\Color\\GetColorDetailsDTO.cs",
+              "RelativeDocumentMoniker": "First.API\\DTOs\\Color\\GetColorDetailsDTO.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\DTOs\\Color\\GetColorDetailsDTO.cs",
+              "RelativeToolTip": "First.API\\DTOs\\Color\\GetColorDetailsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:25:09.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Implementations\\ColorRepository.cs",
+              "RelativeDocumentMoniker": "First.API\\Repositories\\Implementations\\ColorRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Implementations\\ColorRepository.cs",
+              "RelativeToolTip": "First.API\\Repositories\\Implementations\\ColorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:02:37.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IColorService.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Services\\Interfaces\\IColorService.cs",
-              "RelativeDocumentMoniker": "First.API\\Services\\Interfaces\\IColorService.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Services\\Interfaces\\IColorService.cs",
-              "RelativeToolTip": "First.API\\Services\\Interfaces\\IColorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Title": "ColorsController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Controllers\\ColorsController.cs",
+              "RelativeDocumentMoniker": "First.API\\Controllers\\ColorsController.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Controllers\\ColorsController.cs",
+              "RelativeToolTip": "First.API\\Controllers\\ColorsController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAIBCwEUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T06:07:07.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T06:00:45.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "First.API\\Entity\\Category.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Entity\\Category.cs",
+              "RelativeToolTip": "First.API\\Entity\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:29:19.575Z"
             },
             {
               "$type": "Document",
@@ -188,119 +278,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Entity\\Category.cs",
-              "RelativeDocumentMoniker": "First.API\\Entity\\Category.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Entity\\Category.cs",
-              "RelativeToolTip": "First.API\\Entity\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T14:29:19.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ColorsController.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Controllers\\ColorsController.cs",
-              "RelativeDocumentMoniker": "First.API\\Controllers\\ColorsController.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Controllers\\ColorsController.cs",
-              "RelativeToolTip": "First.API\\Controllers\\ColorsController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAA2wEUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T06:00:45.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "First.API\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "First.API\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAswDsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T14:28:05.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Services\\Interfaces\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "First.API\\Services\\Interfaces\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Services\\Interfaces\\ICategoryService.cs",
-              "RelativeToolTip": "First.API\\Services\\Interfaces\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T13:24:40.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Services\\Implementations\\CategoryService.cs",
-              "RelativeDocumentMoniker": "First.API\\Services\\Implementations\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Services\\Implementations\\CategoryService.cs",
-              "RelativeToolTip": "First.API\\Services\\Implementations\\CategoryService.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAswFgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T13:44:25.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Color.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Entity\\Color.cs",
-              "RelativeDocumentMoniker": "First.API\\Entity\\Color.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Entity\\Color.cs",
-              "RelativeToolTip": "First.API\\Entity\\Color.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Title": "20241226065143_addColorProd.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Migrations\\20241226065143_addColorProd.cs",
+              "RelativeDocumentMoniker": "First.API\\Migrations\\20241226065143_addColorProd.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Migrations\\20241226065143_addColorProd.cs",
+              "RelativeToolTip": "First.API\\Migrations\\20241226065143_addColorProd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T06:03:19.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GetColorDetailsDTO.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\DTOs\\Color\\GetColorDetailsDTO.cs",
-              "RelativeDocumentMoniker": "First.API\\DTOs\\Color\\GetColorDetailsDTO.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\DTOs\\Color\\GetColorDetailsDTO.cs",
-              "RelativeToolTip": "First.API\\DTOs\\Color\\GetColorDetailsDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T06:25:09.618Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GetCategoryDetailDTO.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\DTOs\\Category\\GetCategoryDetailDTO.cs",
-              "RelativeDocumentMoniker": "First.API\\DTOs\\Category\\GetCategoryDetailDTO.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\DTOs\\Category\\GetCategoryDetailDTO.cs",
-              "RelativeToolTip": "First.API\\DTOs\\Category\\GetCategoryDetailDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T14:07:28.948Z"
+              "WhenOpened": "2024-12-26T06:51:43.842Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ColorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Implementations\\ColorRepository.cs",
-              "RelativeDocumentMoniker": "First.API\\Repositories\\Implementations\\ColorRepository.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Implementations\\ColorRepository.cs",
-              "RelativeToolTip": "First.API\\Repositories\\Implementations\\ColorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "IColorService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Services\\Interfaces\\IColorService.cs",
+              "RelativeDocumentMoniker": "First.API\\Services\\Interfaces\\IColorService.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Services\\Interfaces\\IColorService.cs",
+              "RelativeToolTip": "First.API\\Services\\Interfaces\\IColorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T06:02:37.787Z"
+              "WhenOpened": "2024-12-26T06:07:07.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
+              "Title": "ColorService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Services\\Implementations\\ColorService.cs",
+              "RelativeDocumentMoniker": "First.API\\Services\\Implementations\\ColorService.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Services\\Implementations\\ColorService.cs",
+              "RelativeToolTip": "First.API\\Services\\Implementations\\ColorService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAA2wFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:12:03.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "GetCategoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\DTOs\\Category\\GetCategoryDTO.cs",
               "RelativeDocumentMoniker": "First.API\\DTOs\\Category\\GetCategoryDTO.cs",
@@ -312,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "CreateCategoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\DTOs\\Category\\CreateCategoryDTO.cs",
               "RelativeDocumentMoniker": "First.API\\DTOs\\Category\\CreateCategoryDTO.cs",
@@ -324,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Program.cs",
               "RelativeDocumentMoniker": "First.API\\Program.cs",
@@ -336,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "20241226061753_AddColors.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Migrations\\20241226061753_AddColors.cs",
               "RelativeDocumentMoniker": "First.API\\Migrations\\20241226061753_AddColors.cs",
@@ -348,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "First.API\\DAL\\AppDbContext.cs",
@@ -360,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Entity\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "First.API\\Entity\\Base\\BaseEntity.cs",
@@ -372,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "CreateColorDTO.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\DTOs\\Color\\CreateColorDTO.cs",
               "RelativeDocumentMoniker": "First.API\\DTOs\\Color\\CreateColorDTO.cs",
@@ -384,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "GetColorDTO.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\DTOs\\Color\\GetColorDTO.cs",
               "RelativeDocumentMoniker": "First.API\\DTOs\\Color\\GetColorDTO.cs",
@@ -396,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "UpdateColorDTO.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\DTOs\\Color\\UpdateColorDTO.cs",
               "RelativeDocumentMoniker": "First.API\\DTOs\\Color\\UpdateColorDTO.cs",
@@ -408,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "UpdateCategroryDTO.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\DTOs\\Category\\UpdateCategroryDTO.cs",
               "RelativeDocumentMoniker": "First.API\\DTOs\\Category\\UpdateCategroryDTO.cs",
@@ -420,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "GetProductDTO.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\DTOs\\Product\\GetProductDTO.cs",
               "RelativeDocumentMoniker": "First.API\\DTOs\\Product\\GetProductDTO.cs",
@@ -432,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Implementations\\ProductRepository.cs",
               "RelativeDocumentMoniker": "First.API\\Repositories\\Implementations\\ProductRepository.cs",
@@ -444,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "IColorRepository.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Interfaces\\IColorRepository.cs",
               "RelativeDocumentMoniker": "First.API\\Repositories\\Interfaces\\IColorRepository.cs",
@@ -456,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Interfaces\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "First.API\\Repositories\\Interfaces\\ICategoryRepository.cs",
@@ -468,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Implementations\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "First.API\\Repositories\\Implementations\\CategoryRepository.cs",
@@ -480,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Implementations\\Repository.cs",
               "RelativeDocumentMoniker": "First.API\\Repositories\\Implementations\\Repository.cs",
@@ -492,7 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "First.API\\Repositories\\Interfaces\\IRepository.cs",
@@ -504,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "IProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Repositories\\Interfaces\\IProductRepository.cs",
               "RelativeDocumentMoniker": "First.API\\Repositories\\Interfaces\\IProductRepository.cs",
@@ -516,7 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "20241225051625_AddProduct.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Migrations\\20241225051625_AddProduct.cs",
               "RelativeDocumentMoniker": "First.API\\Migrations\\20241225051625_AddProduct.cs",
@@ -528,7 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "First.API\\GlobalUsings.cs",
@@ -540,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "20241221143540_AddCategories.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\Migrations\\20241221143540_AddCategories.cs",
               "RelativeDocumentMoniker": "First.API\\Migrations\\20241221143540_AddCategories.cs",
@@ -552,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\First.API\\First.API\\First.API\\appsettings.json",
               "RelativeDocumentMoniker": "First.API\\appsettings.json",

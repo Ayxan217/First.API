@@ -35,7 +35,7 @@ namespace First.API.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Categories");
+                    b.ToTable("Categories", (string)null);
                 });
 
             modelBuilder.Entity("First.API.Entity.Color", b =>
@@ -52,7 +52,7 @@ namespace First.API.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Colors");
+                    b.ToTable("Colors", (string)null);
                 });
 
             modelBuilder.Entity("First.API.Entity.Product", b =>
@@ -77,7 +77,7 @@ namespace First.API.Migrations
 
                     b.HasIndex("CategoryId");
 
-                    b.ToTable("Products");
+                    b.ToTable("Products", (string)null);
                 });
 
             modelBuilder.Entity("First.API.Entity.Product", b =>
