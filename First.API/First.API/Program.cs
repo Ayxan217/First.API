@@ -26,7 +26,8 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 builder.Services.AddScoped<ICategoryRepository,CategoryRepository>();
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<ICategoryService, CategoryService>();
-
+builder.Services.AddScoped<IColorService, ColorService>();
+builder.Services.AddScoped<IColorRepository, ColorRepository>();
 
 WebApplication app = builder.Build();
 
